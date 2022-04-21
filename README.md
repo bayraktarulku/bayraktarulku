@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there 👋 
+I'm Ülkü. A passionate backend developer from Turkey
+- 🔭 I’m currently working on moneytolia
+- 🌱 I’m currently learning Data processing
+- 💬 Ask me about python, vue
+- 📫 How to reach me ulkubayraktar@gmail.com
 <!--
 **bayraktarulku/bayraktarulku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
