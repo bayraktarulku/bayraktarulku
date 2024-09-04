@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Ülkü. A passionate backend developer from Turkey
+I'm Ülkü. A passionate backend developer
 - 🔭 I’m currently working on moneytolia
 - 🌱 I’m currently learning data processing
 - 💬 Ask me about python, vue
